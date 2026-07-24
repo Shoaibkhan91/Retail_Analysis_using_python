@@ -1,16 +1,16 @@
- # 🛍️ Retail Customer Analysis
+ #  Retail Customer Analysis
 
 A comprehensive Data Analytics project focused on analyzing retail customer behavior, sales performance, and transaction trends using Python. This project demonstrates the complete data analytics workflow, including data cleaning, exploratory data analysis (EDA), feature engineering, visualization, and business insights.
 
 ---
 
-## 📌 Project Overview
+##  Project Overview
 
 The objective of this project is to analyze retail transaction data to understand customer purchasing behavior, product performance, and store-level sales trends. The analysis helps identify valuable business insights that can support data-driven decision-making.
 
 ---
 
-## 🎯 Business Objectives
+##  Business Objectives
 
 - Analyze customer purchasing patterns
 - Evaluate sales performance across store types
@@ -21,7 +21,7 @@ The objective of this project is to analyze retail transaction data to understan
 
 ---
 
-## 📂 Dataset
+##  Dataset
 
 The project uses three datasets:
 
@@ -33,7 +33,7 @@ These datasets were merged to create a unified analytical dataset for further an
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - Python
 - Pandas
@@ -44,7 +44,7 @@ These datasets were merged to create a unified analytical dataset for further an
 
 ---
 
-## 📊 Project Workflow
+##  Project Workflow
 
 ### 1. Data Collection
 
@@ -97,9 +97,7 @@ Created multiple visualizations including:
 - Line Charts
 - Distribution Plots
 
----
-
-## 📈 Key Insights
+##  Key Insights
 
 - Identified the highest revenue-generating product categories.
 - Compared purchasing behavior between male and female customers.
@@ -108,33 +106,8 @@ Created multiple visualizations including:
 - Identified top-performing cities based on customer count.
 - Measured customer spending across different product categories.
 
----
 
-## 📁 Project Structure
-
-```
- 
- 
-```
-
----
-
- 
-
- 
-```
-
-### Launch Jupyter Notebook
-
-```bash
-jupyter notebook
-```
-
-Open the notebook and run all cells.
-
----
-
-## 📦 Required Libraries
+##  Required Libraries
 
 ```text
 pandas
@@ -146,7 +119,7 @@ jupyter
 
 ---
 
-## 📚 Skills Demonstrated
+##  Skills Demonstrated
 
 - Data Cleaning
 - Data Wrangling
@@ -161,7 +134,7 @@ jupyter
 
 ---
 
-## 📌 Learning Outcomes
+##  Learning Outcomes
 
 Through this project, I gained practical experience in:
 
@@ -174,14 +147,14 @@ Through this project, I gained practical experience in:
 
 ---
 
-## 👨‍💻 Author
+##  Author
 
 **Shoaib Khan**
 
-📧 Email: SHOAIB913599@gmail.com
+ Email: SHOAIB913599@gmail.com
 
-🔗 LinkedIn: https://www.linkedin.com/in/shoaib-khan-1b16232b2
+ LinkedIn: https://www.linkedin.com/in/shoaib-khan-1b16232b2
 
 ---
 
-⭐ If you found this project helpful, consider giving it a star!
+ If you found this project helpful, consider giving it a star!
